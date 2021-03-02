@@ -166,3 +166,24 @@ body {
 .third__subtitle {
   font-size: 14px;
 }
+
+.footer {
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 40px;
+  border-radius: 20px;
+  margin-top: -20px;
+}
+
+.button {
+  margin: 0 auto;
+  background: linear-gradient(to top right, #003366 0%, #ccffff 100%);
+  color: #fff;
+  padding: 0 110px;
+  line-height: 30px;
+  border-radius: 7px;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  letter-spacing: 1.5px;
+}
